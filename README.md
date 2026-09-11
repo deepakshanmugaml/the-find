@@ -1,15 +1,14 @@
 # My Unity Game
 
-A Unity game developed as part of my game development portfolio.
 
 ## 🎮 Features
 
 - Player movement
 - Enemy AI
-- Combat system
+- find key
 - UI
 - Sound effects
-- Level design
+- open doors
 
 ## 🛠️ Built With
 
@@ -23,7 +22,3 @@ A Unity game developed as part of my game development portfolio.
 2. Open it with Unity Hub
 3. Open the main scene
 4. Press Play
-
-## 📸 Screenshots
-
-Add screenshots of the game here.
