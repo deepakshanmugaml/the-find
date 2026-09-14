@@ -4,10 +4,7 @@
 ## 🎮 Features
 
 - Player movement
-- Enemy AI
 - find key
-- UI
-- Sound effects
 - open doors
 
 ## 🛠️ Built With
